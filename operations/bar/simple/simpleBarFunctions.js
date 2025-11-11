@@ -14,7 +14,7 @@ import {
     lagDiff as dataLagDiff
 } from "../../operationFunctions.js";
 // 기존 import 아래에 추가
-import { OP_COLORS } from "../../../../object/colorPalette.js";
+import { OP_COLORS } from "../../../object/colorPalette.js";
 import { getPrimarySvgElement } from "../../operationUtil.js";
 import { normalizeLagDiffResults } from "../../common/lagDiffHelpers.js";
 
