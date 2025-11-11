@@ -33,7 +33,7 @@ import {
     simpleLineSort,
     simpleLineLagDiff
 } from "../simple/simpleLineFunctions.js";
-import { OP_COLORS } from "../../../../object/colorPalette.js";
+import { OP_COLORS } from "../../../object/colorPalette.js";
 import {
     parseDateWithGranularity,
     fmtISO
